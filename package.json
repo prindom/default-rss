@@ -93,7 +93,7 @@
   "dependencies": {
     "@11ty/eleventy-plugin-vite": "^4.0.0",
     "@11ty/eleventy-plugin-webc": "^0.11.1",
-    "@alpinejs/persist": "^3.11.1",
+    "@alpinejs/persist": "^3.13.2",
     "alpinejs": "^3.11.1",
     "core-js": "^3.29.1"
   }
