@@ -65,7 +65,7 @@
     "@babel/preset-env": "^7.16.5",
     "@commitlint/cli": "^17.0.3",
     "@commitlint/config-conventional": "^17.0.3",
-    "@tailwindcss/typography": "^0.5.0",
+    "@tailwindcss/typography": "^0.5.10",
     "autoprefixer": "^10.4.16",
     "browserslist": "^4.22.1",
     "cross-env": "^7.0.3",
